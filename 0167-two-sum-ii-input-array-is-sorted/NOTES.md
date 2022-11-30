@@ -1,0 +1,1 @@
+use two pointers to look at the numbers
